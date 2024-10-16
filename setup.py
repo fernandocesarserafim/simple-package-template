@@ -14,7 +14,7 @@ setup(
     description="meu pacote",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/fernandocesarserafim/simple-package-template/"
+    url="https://github.com/fernandocesarserafim/simple-package-template/",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
